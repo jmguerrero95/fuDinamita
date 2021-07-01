@@ -1,0 +1,34 @@
+#ini_sesion{
+	background-color: #f4f8ff;
+
+}
+#conte_princi{
+	margin-top: 5%;
+}
+#contenedor{
+	margin-top: 15%;
+	background-color:#e0e0e0;
+	border-radius: 3%;
+}
+#boton{
+	color: white;
+}
+#titulo{
+	font-family: helvetica;
+}
+#titulo_princi{
+	font-family: "Roboto","Helvetica","Arial",sans-serif;
+	font-style: oblique;
+}
+#carga{
+    position: fixed;
+    right: 50%;
+    top: -50%;
+    z-index: 9999;
+    opacity: .8;
+}
+#fondo{
+	background-color: white;
+	width: 100%;
+	height: 100%;
+}
